@@ -7,7 +7,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         TextView tv = new TextView(this);
         tv.setTextSize(24);
-        tv.setText("AIMTD SuperApp\nFull Control Mode ON 🔥");
+        tv.setText("AIMTD SuperApp Pro\nSiap Digas 🔥");
         tv.setGravity(17);
         setContentView(tv);
     }
